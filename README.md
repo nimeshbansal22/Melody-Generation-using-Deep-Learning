@@ -77,4 +77,4 @@ mg.save_melody(melody)
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this code as per the license agreement.
 
 ## Contact
-For further questions or collaboration, please reach out at [your-email@example.com].
+For further questions or collaboration, please reach out at [nimeshbansal3390@gmail.com].
